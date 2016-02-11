@@ -1,0 +1,28 @@
+name: UK Society of Celebrants
+favicon: null
+layout_spectrum: 0.37345663108862936
+typography_spectrum: 0.19231530651450157
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.12115408363752067
+  lightness: 0.6361951450817287
+  saturation: 0.03665681625716388
+  rhythmicContrast: 0.9122908096760511
+purpose: []
